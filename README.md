@@ -1,2 +1,0 @@
-# diazelyasa
-Simple project
